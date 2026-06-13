@@ -17,7 +17,7 @@ export default function Services() {
             Our Services
           </h1>
 
-          <p className="mt-4 text-gray-300 text-lg">
+          <p className="mt-4 text-gray-600 text-lg">
             Discover our premium beauty and wellness services
           </p>
         </div>
@@ -28,7 +28,7 @@ export default function Services() {
             💄 Face
           </h2>
 
-          <ul className="space-y-4 text-lg text-white">
+          <ul className="space-y-4 text-lg text-pink-900">
             <li>✨ Threading</li>
             <li>✨ Facial Treatments</li>
             <li>✨ Cleanups</li>
@@ -42,7 +42,7 @@ export default function Services() {
             💇 Hair
           </h2>
 
-          <ul className="space-y-4 text-lg text-white">
+          <ul className="space-y-4 text-lg text-pink-900">
             <li>✨ Hair Cut</li>
             <li>✨ Hair Spa</li>
             <li>✨ Hair Styling</li>
@@ -58,7 +58,7 @@ export default function Services() {
             💄 Makeup
           </h2>
 
-          <ul className="space-y-4 text-lg text-white">
+          <ul className="space-y-4 text-lg text-pink-900">
             <li>✨ Bridal Makeup</li>
             <li>✨ Reception Makeup</li>
             <li>✨ Guest Makeup</li>
@@ -72,7 +72,7 @@ export default function Services() {
             👗 Saree Draping 
           </h2>
 
-          <ul className="space-y-4 text-lg text-white">
+          <ul className="space-y-4 text-lg text-pink-900">
             <li>✨ Saree Draping</li>
             <li>✨ Box Folding</li>
             <li>✨ Bridal Saree Setting</li>
